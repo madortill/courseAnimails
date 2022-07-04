@@ -147,7 +147,7 @@ body {
 .back-button {
     position: absolute;
     right: 2vh;
-    bottom: 13vh;
+    bottom: 8vh;
     width: 19vw;
 }
 
@@ -163,7 +163,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 70vh;
+    height: 64vh;
     overflow: scroll;
 }
 
