@@ -288,9 +288,10 @@ body {
 .try-again {
     display: none;
     width: 31vw;
-    position: absolute;
-    bottom: 42vh;
-    right: 33vw;
+    position: relative;
+    /* bottom: 42vh; */
+    right: -2vw;
+    top: 20vh;
 }
 
 /* info animal page */
