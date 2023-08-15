@@ -148,7 +148,7 @@ body {
     position: absolute;
     right: 2vh;
     bottom: 8vh;
-    width: 19vw;
+    width: 22vw;
 }
 
 /* דף פתיחה */
@@ -194,9 +194,11 @@ body {
 
 .input-animal {
     background-color: #ecffff;
-    border-radius: 13px;
+    border-radius: 1.25vh;
     /* margin: 2em; */
-    height: 2.2vh;
+    height: 4.2vh;
+    width: 51vw;
+    font-size: initial;
     border: 0.235em solid;
     padding: 0.22em;
     padding-right: 0.4em;
@@ -216,7 +218,7 @@ body {
     visibility: hidden;
     position: relative;
     right: 2vh;
-    width: 21vw;
+    width: 22vw;
 }
 
 .title-animal-name {
